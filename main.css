@@ -1,0 +1,19 @@
+.login-field {
+  margin-bottom: 40px;
+}
+
+.hide {
+  display: none;
+}
+
+.task {
+  display: grid;
+  grid-template-columns: 1fr 3fr 1fr;
+  background-color: bisque;
+  color: gray;
+  gap: 10px;
+  height: 50px;
+  margin-bottom: 1rem;
+}
+
+/*# sourceMappingURL=main.css.map */
